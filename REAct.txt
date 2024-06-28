@@ -1,0 +1,29 @@
+ React js (JS library):
+
+ We use two types of Dom in React js:
+
+ 1. Real Dom.
+
+ 2. Virtual Dom.
+
+ npm create-react-app (CRA).
+
+Google search vite react and click getting started vite and scroll down and copy (npm create vite@latest).
+
+Any third party library can be installed by react npm.
+
+SPA (Single Page Application) also known as React SPA
+
+npm create vite
+
+npm install 
+
+
+then go to main.jsx and make changes as you wish
+
+In .jsx function is component and the names first letter is always capital
+
+http://localhost:5173/
+
+
+
